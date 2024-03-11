@@ -1,7 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>ags_machine_callbacks: Advanced Gtk+ Sequencer Application Reference Manual</title>
 <meta name="generator" content="DocBook XSL Stylesheets V1.79.1">
 <link rel="home" href="https://www.gnu.org/savannah-checkouts/non-gnu/gsequencer/api/3.0.13/libgsequencer/index.html" title="Advanced Gtk+ Sequencer Application Reference Manual">
 <link rel="up" href="https://www.gnu.org/savannah-checkouts/non-gnu/gsequencer/api/3.0.13/libgsequencer/ui-machine-fundamentals.html" title="Fundamental machine types">
